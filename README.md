@@ -34,10 +34,3 @@ This project is designed for learning and practice, covering essential concepts 
 * **C#**
 * **SQLite (light SQL database)**
 * **Entity Framework Core (Code-First)**
-
-
-⚡ **This project is a lightweight learning system, ideal for students and beginners who want to understand C#, database integration, and console-based menu systems.**
-
----
-
-Do you want me to also make a **screenshot/demo section** (with example menu UI) so your README looks even better on GitHub?
